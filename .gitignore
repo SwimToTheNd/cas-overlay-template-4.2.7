@@ -2,7 +2,6 @@
 !/.project
 .project
 .settings
-target/
 .idea/
 .DS_Store
 .idea
